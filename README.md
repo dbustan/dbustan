@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbustan
 - 👀 I’m interested in Game Development and Music
 - 🌱 I’m currently learning Game Design
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on some stuff
 - 📫 How to reach me danielbustan100@gmail.com
 
 <!---
