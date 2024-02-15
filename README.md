@@ -1,13 +1,12 @@
  
-#About Me
-My name is Daniel Bustan student at UCSC studying Game Dev. Regardless of what you may think, I exist. 
+## About Me
+My name is Daniel Bustan student at UCSC studying Game Dev. Regardless of what you may think, I exist.
+## Skills
 
-#Skills
-
-##Coding
+### Coding
 Javascript, Typescript, C#, C++, C
 
-##Other
+### Other
 Ableton, Studio One
 <!---
 dbustan/dbustan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
