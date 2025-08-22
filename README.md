@@ -1,6 +1,6 @@
  
 ## About Me
-My name is Daniel Bustan student at UCSC studying Game Dev. Regardless of what you may think, I exist.
+My name is Daniel Bustan and I'm a UCSC graduate of Game Development. Regardless of what you may think, I exist.
 ## Skills
 
 ### Coding
