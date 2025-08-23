@@ -4,7 +4,7 @@ My name is Daniel Bustan and I'm a UCSC graduate of Game Development. Regardless
 ## Skills
 
 ### Coding
-Javascript, Typescript, C#, C++, C
+C#, C++, C, Javascript, Typescript 
 
 ### Other
 Ableton, Studio One, Blender
