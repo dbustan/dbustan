@@ -1,10 +1,8 @@
  
 ## About Me
-My name is Daniel Bustan and I'm a UCSC graduate of Game Development. Regardless of what you may think, I exist.
-## Skills
-
+My name is Daniel Bustan and I'm a UCSC graduate of Game Development. Currently Interning at Justia, working on data-collection via python.
 ### Coding
-C#, C++, C, Javascript, Typescript 
+ C++, C#, Python, C, Javascript, Typescript 
 
 ### Other
 Ableton, Studio One, Blender
